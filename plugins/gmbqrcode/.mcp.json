@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gmbqrcode": {
+      "type": "http",
+      "url": "https://mcp.gmbqrcode.com/mcp"
+    }
+  }
+}

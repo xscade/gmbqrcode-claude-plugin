@@ -1,0 +1,20 @@
+{
+  "name": "gmbqrcode",
+  "version": "1.0.0",
+  "description": "Manage your Google Business Profile from Claude: reply to reviews, report on performance, plan posts and check local rankings. Connects to your GMBQrcode account with OAuth.",
+  "author": {
+    "name": "GMBQrcode",
+    "url": "https://gmbqrcode.com"
+  },
+  "homepage": "https://gmbqrcode.com/google-business-profile-mcp-connector",
+  "repository": "https://github.com/xscade/gmbqrcode-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "google-business-profile",
+    "gbp",
+    "google-reviews",
+    "local-seo",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://gmbqrcode.com/legal/privacy"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "gmbqrcode",
+  "owner": { "name": "GMBQrcode", "url": "https://gmbqrcode.com" },
+  "metadata": {
+    "description": "Claude plugins from GMBQrcode for managing Google Business Profiles."
+  },
+  "plugins": [
+    {
+      "name": "gmbqrcode",
+      "source": "./plugins/gmbqrcode",
+      "description": "Manage your Google Business Profile from Claude: reply to reviews, report on performance, plan posts and check local rankings.",
+      "category": "productivity"
+    }
+  ]
+}
